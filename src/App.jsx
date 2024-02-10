@@ -40,7 +40,7 @@ function App() {
             mx={"auto"}
           >
             <Box
-              w={{base:"90%", lg: "80%"}}
+              w={{base:"90%", lg: "60%"}}
               mx={"auto"}
               bg={"white"}
               p={{base:"12px", lg: "20px"}}
